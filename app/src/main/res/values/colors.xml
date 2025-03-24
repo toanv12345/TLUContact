@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>         <!-- Main blue color -->
+    <color name="colorPrimaryDark">#1976D2</color>     <!-- Darker blue for status bar -->
+    <color name="colorAccent">#03A9F4</color>          <!-- Accent blue color -->
+    <color name="colorPrimaryLight">#BBDEFB</color>    <!-- Light blue for backgrounds -->
+    <color name="textColorPrimary">#FFFFFF</color>     <!-- White text for dark backgrounds -->
+    <color name="textColorSecondary">#757575</color>   <!-- Gray text for secondary information -->
+    <color name="colorBackground">#FFFFFF</color>      <!-- White background color -->
+    <color name="colorBackgroundLight">#F5F5F5</color> <!-- Light gray background color -->
+    <color name="colorDivider">#BDBDBD</color>         <!-- Gray divider color -->
+    <color name="black">#FF000000</color>              <!-- Pure black -->
+    <color name="white">#FFFFFFFF</color>              <!-- Pure white -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="purple_500">#6200EE</color>           <!-- Added missing color -->
+    <color name="teal_700">#018786</color>
+</resources>
